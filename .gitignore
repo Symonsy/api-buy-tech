@@ -1,7 +1,10 @@
 .env
 venv
+venv-buy
 .venv
 __pycache__
-teste
-teste/*
-banco_emails.db
+trash*
+trash*/*
+*.db
+.pytest_cache
+buy-tech.db
